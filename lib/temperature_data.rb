@@ -6,13 +6,4 @@ class TemperatureData
     @high = high
     @low = low
   end
-  def day
-    @day
-  end
-  def low
-    @low
-  end
-  def high
-    @high
-  end
 end
